@@ -7,7 +7,7 @@ I used socket-programming to program a server which has directories and files th
 
 ## commands:
 - `show my directories`: showing the domain of the user which can be accessed
-- `show &lt;directory name&gt;`: going inside a directory and printing the content of it
-- `&lt;filename&gt;`: downloading the file for the client
+- `show <directory name>`: going inside a directory and printing the content of it
+- `<filename>`: downloading the file for the client
 - `close`: terminating the connection between the client/server
 - `logout`: logging out from the user account
